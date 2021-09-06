@@ -8,7 +8,7 @@ import slugifyUrls from "lume/plugins/slugify_urls.ts";
 import gpm from "https://deno.land/x/gpm@v0.2.0/mod.ts";
 
 const site = lume({
-  location: new URL("https://example.com/"),
+  location: new URL("https://bplabombarda.github.io/recipes/"),
 });
 
 site
@@ -20,9 +20,8 @@ site
   .use(codeHighlight())
   .use(basePath())
   .use(slugifyUrls({ alphanumeric: false }))
-  .addEventListener(
-    "beforeBuild",
-    () => gpm(["oom-components/searcher"], "js/vendor"),
+  .addEventListener("beforeBuild", () =>
+    gpm(["oom-components/searcher"], "js/vendor")
   );
 
 export default site;
