@@ -8,7 +8,7 @@ import slugifyUrls from "lume/plugins/slugify_urls.ts";
 import gpm from "https://deno.land/x/gpm@v0.2.0/mod.ts";
 
 const site = lume({
-  location: new URL("https://recipes.shallots.dev/"),
+  location: new URL("https://bplabombarda.com/recipes/"),
 });
 
 site
