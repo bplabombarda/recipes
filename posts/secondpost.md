@@ -3,8 +3,8 @@ title: Oyakodon
 description: This is a post on My Blog about leveraging agile frameworks.
 date: 2018-07-04
 tags:
-  - number-2
-  - second-tag
+  - main
+  - japanese
 estimatedTime: 1 hour
 servings: 4
 

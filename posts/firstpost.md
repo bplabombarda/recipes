@@ -3,7 +3,7 @@ title: Red Beans and Rice
 description: This is a post on My Blog about agile frameworks.
 date: 2018-05-01
 tags:
-  - another-tag
+  - vegetarian
 ---
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews.

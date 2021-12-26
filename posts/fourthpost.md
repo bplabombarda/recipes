@@ -3,7 +3,8 @@ title: Zucchini Fritter
 description: This is a post on My Blog about touchpoints and circling wagons.
 date: 2018-09-30
 tags:
-  - second-tag
+  - side
+  - vegetarian
 ---
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews.
