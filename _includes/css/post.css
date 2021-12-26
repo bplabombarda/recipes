@@ -43,3 +43,9 @@
     padding: 1em;
   }
 }
+.post-secondary-info {
+  & div {
+    font-weight: bold;
+    margin-top: 0.5em;
+  }
+}

@@ -1,25 +1,29 @@
 <ul class="postList">
   {% for post in postslist %}
   <li class="postList-post">
-    <a href="{{ post.data.url }}" class="postList-title"{% if entry.data.url == url %} aria-current="page"{% endif %}>
-      {% if post.data.title %}
-        <strong>{{ post.data.title }}</strong>
-      {% else %}
-        <code>{{ post.url }}</code>
-      {% endif %}
-    </a>
+    <div>
+        <a href="{{ post.data.url }}" class="postList-title"{% if entry.data.url == url %} aria-current="page"{% endif %}>
+          {% if post.data.title %}
+            <strong>{{ post.data.title }}</strong>
+          {% else %}
+            <code>{{ post.url }}</code>
+          {% endif %}
+        </a>
+    </div>
 
-    <time class="postList-date" datetime="{{ post.data.date | date('DATETIME') }}">
-      {{ post.data.date | date('MM/dd/yyyy') }}
-    </time>
+    <div>
+        <time class="postList-date" datetime="{{ post.data.date | date('DATETIME') }}">
+          {{ post.data.date | date('MM/dd/yyyy') }}
+        </time>
 
-    {% for tag in post.data.tags %}
-    {% for pageTag in search.pages("type=tag") %}
-    {% if pageTag.data.tag == tag %}
-    <a href="{{ pageTag.data.url  }}" class="tag">{{ tag }}</a>
-    {% endif %}
-    {% endfor %}
-    {% endfor %}
+        {% for tag in post.data.tags %}
+        {% for pageTag in search.pages("type=tag") %}
+        {% if pageTag.data.tag == tag %}
+        <a href="{{ pageTag.data.url  }}" class="tag">{{ tag }}</a>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+    </div>
   </li>
 {% endfor %}
 </ul>

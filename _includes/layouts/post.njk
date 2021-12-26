@@ -16,13 +16,15 @@ bodyClass: body-post
       {{ date | date('HUMAN_DATE') }}
     </time>
 
-    {%- if estimatedTime %}
-    <p>{{ estimatedTime }}</p>
-    {% endif %}
+    <section class="post-secondary-info">
+      {%- if cookTime %}
+      <div>Cook time: {{ cookTime }}</div>
+      {% endif %}
 
-    {%- if servings %}
-    <p>{{ servings }}</p>
-    {% endif %}
+      {%- if servings %}
+      <div>Serves: {{ servings }}</div>
+      {% endif %}
+    </section>
   </header>
 
   <div class="post-body">

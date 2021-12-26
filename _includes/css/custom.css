@@ -1,3 +1,11 @@
 body {
   font-family: 'Cousine', monospace;
 }
+
+main {
+  padding: 1vh 2vw;
+}
+
+.post-header {
+  padding: 1vh 0;
+}
