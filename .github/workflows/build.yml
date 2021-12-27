@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@master
 
       - name: Setup Deno environment
         uses: denoland/setup-deno@v1
@@ -18,7 +18,7 @@ jobs:
 
       - name: Run lume
         run: |
-          deno run -A https://deno.land/x/lume/ci.ts --location=https://bplabombarda.com/recipes/
+          deno run -A https://deno.land/x/lume/ci.ts --location=https://shallots.party/
 
       - name: Deploy
         uses: crazy-max/ghaction-github-pages@v2.0.1

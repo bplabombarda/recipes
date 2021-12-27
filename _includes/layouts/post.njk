@@ -36,14 +36,14 @@ bodyClass: body-post
 
 <nav class="post-navigation">
   <ul>
-    {%- set previousPost = search.previousPage(url, "type=posts") %}
+    {%- set previousPost = search.previousPage(url, "type=recipes") %}
     {%- if previousPost %}
     <li>
       ← Previous: <a href="{{ previousPost.data.url }}" rel="prev">{{ previousPost.data.title }}</a>
     </li>
     {% endif %}
 
-    {%- set nextPost = search.nextPage(url, "type=posts") %}
+    {%- set nextPost = search.nextPage(url, "type=recipes") %}
     {%- if nextPost %}
     <li>
       <strong>Next: <a href="{{ nextPost.data.url }}" rel="next">{{ nextPost.data.title }}</a> →</strong>

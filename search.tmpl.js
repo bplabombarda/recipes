@@ -4,7 +4,7 @@ export default function ({ search }, { url }) {
   const result = [];
 
   // Search tags
-  for (const tag of search.tags("type=posts")) {
+  for (const tag of search.tags("type=recipes")) {
     result.push({
       label: `Tag: ${tag}`,
       search: tag,
@@ -12,8 +12,8 @@ export default function ({ search }, { url }) {
     });
   }
 
-  // Search posts
-  for (const post of search.pages("type=posts")) {
+  // Search recipes
+  for (const post of search.pages("type=recipes")) {
     result.push({
       label: post.data.title,
       search: `${post.data.title} ${post.data.tags.join(" ")}`,
