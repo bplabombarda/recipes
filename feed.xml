@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Recipes</title>
+	<subtitle>A list of recipes.</subtitle>
+	<link href="https://shallots.party/feed.xml" rel="self"/>
+	<link href="https://shallots.party/"/>
+	
+	<updated>2021-12-27T05:01:03Z</updated>
+	<id>https://shallots.party/</id>
+	<author>
+		<name>Brett LaBombarda</name>
+		<email>bplabombarda@gmail.com</email>
+	</author>
+</feed>

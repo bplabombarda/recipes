@@ -1,0 +1,27 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Recipes",
+  "home_page_url": "https://shallots.party/",
+  "feed_url": "https://shallots.party/feed.json",
+  "description": "A list of recipes.",
+  "author": {
+    "name": "Brett LaBombarda",
+    "url": "https://shallots.party/"
+  },
+  "items": [
+    {
+      "id": "https://shallots.party/recipes/red-sauce/",
+      "url": "https://shallots.party/recipes/red-sauce/",
+      "title": "Red Sauce",
+      "content_html": "<h2>Ingredients</h2>\n<ul>\n<li>5 28 oz cans of whole, peeled San Marzano tomatoes</li>\n<li>1 white onion, diced fine</li>\n<li>4 tbsp olive oil</li>\n<li>Salt</li>\n</ul>\n<h2>Equipment</h2>\n<ul>\n<li>Food mill (sorry, I know no other way)</li>\n</ul>\n<h2>Instructions</h2>\n<ol>\n<li>Open the cans of tomatoes and drain excess liquid.</li>\n<li>In a large sauce pot, add the olive oil over medium-low heat.</li>\n<li>Once the oil is shimmering, add the onion and cook until soft. Turn the heat down to low.</li>\n<li>With the food mill on top of the sauce pot, mill the tomatoes, scraping the bottom ocassionally.</li>\n<li>Bring the sauce to a simmer for about 3-4 hours. Stir frequently, about avery 20 minutes.</li>\n</ol>",
+      "date_published": "2021-12-26T00:00:00Z"
+    },
+    {
+      "id": "https://shallots.party/recipes/oyakodon/",
+      "url": "https://shallots.party/recipes/oyakodon/",
+      "title": "Oyakodon",
+      "content_html": "<h2>Ingredients</h2>\n<ul>\n<li>1/2 C mirin (or white wine)</li>\n<li>14 oz boneless, skinless chicken thighs, cut into 1 inch chunks</li>\n<li>1/2 onion, sliced thin</li>\n<li>2 scallions, sliced thin</li>\n<li>6 large eggs, beaten</li>\n</ul>\n<h3>To make the Dashi substitute</h3>\n<ul>\n<li>6 oz stock</li>\n<li>2 oz Worcesterchire sauce</li>\n<li>2 oz fish sauce</li>\n<li>1 oz soy sauce</li>\n<li>1 oz rice vinegar</li>\n</ul>\n<h2>Instructions</h2>\n<ol>\n<li>Add the dashi subsitute and mirin to a large skillet and simmer over medium heat.</li>\n<li>Add the chicken and cook until it just loses its pink color, about 2-3 minutes.</li>\n<li>Add the onion and scallions and cook until the chicken is fully cooked.</li>\n<li>Turn heat down to medium-low. While slowly stirring, slowly pour the beaten eggs into the skillet. You will want to keep the mixture as smooth as possible.</li>\n</ol>\n<h2>Serving</h2>\n<ul>\n<li>Over rice</li>\n</ul>\n<h2>Sources</h2>\n<ul>\n<li>Original inspiration from <a href=\"https://www.justonecookbook.com/oyakodon/\">Just One Cookbook</a></li>\n<li>Preparation adapted based on <a href=\"https://www.goodreads.com/en/book/show/43230870-the-gaijin-cookbook\">The Gaijin Cookbook (pg. 42)</a></li>\n</ul>",
+      "date_published": "2021-12-25T00:00:00Z"
+    }
+  ]
+}
