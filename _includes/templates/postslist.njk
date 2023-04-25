@@ -12,7 +12,10 @@
     </div>
 
     <div>
-        <time class="postList-date" datetime="{{ post.data.date | date('DATETIME') }}">
+        {% if post.data.author %}
+          <span class="postList-info">By {{ post.data.author }}</span>
+        {% endif %}
+        <time class="postList-info" datetime="{{ post.data.date | date('DATETIME') }}">
           {{ post.data.date | date('MM/dd/yyyy') }}
         </time>
 

@@ -1,5 +1,6 @@
 ---
 title: Oyakodon
+author: Brett LaBombarda
 description: A chicken and egg bowl.
 date: 2021-12-25
 tags:

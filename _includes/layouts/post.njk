@@ -12,9 +12,14 @@ bodyClass: body-post
     {% endfor %}
     </nav>
 
-    <time class="post-date" datetime="{{ date | date('DATETIME') }}">
-      {{ date | date('HUMAN_DATE') }}
-    </time>
+    <p>
+      {% if author %}
+        <span class="post-info">By {{ author }}</span>
+      {% endif %}
+      <time class="post-info" datetime="{{ date | date('DATETIME') }}">
+        {{ date | date('HUMAN_DATE') }}
+      </time>
+    </p>
 
     <section class="post-secondary-info">
       {%- if cookTime %}
