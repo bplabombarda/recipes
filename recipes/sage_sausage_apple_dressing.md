@@ -1,8 +1,9 @@
 ---
 title: Sage Sausage and Apple Dressing
+author: Brett LaBombarda
 description: THE Thanksgiving stuffing.
 date: 2021-11-25
-tags: 
+tags:
   - side
   - thanksgiving
 cookTime: 2 hours
