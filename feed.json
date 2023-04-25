@@ -1,0 +1,41 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Recipes",
+  "home_page_url": "https://shallots.party/",
+  "feed_url": "https://shallots.party/feed.json",
+  "description": "A list of recipes.",
+  "author": {
+    "name": "Brett LaBombarda",
+    "url": "https://shallots.party/"
+  },
+  "items": [
+    {
+      "id": "https://shallots.party/recipes/vodka-sauce/",
+      "url": "https://shallots.party/recipes/vodka-sauce/",
+      "title": "Vodka Sauce",
+      "content_html": "<h2>Ingredients</h2>\n<ul>\n<li>1 c vodka</li>\n<li>1 tsp crushed red pepper</li>\n<li>2 tsp olive oil</li>\n<li>3/4 lb prosciutto, chopped</li>\n<li>1 large clove garlic, minced</li>\n<li>2 tbsp parsley, chopped</li>\n<li>2 tbsp basil, chopped</li>\n<li>1 28oz can Roma tomatoes, with juice</li>\n<li>2 8 oz cans tomato sauce</li>\n<li>8oz water</li>\n<li>1 c heavy cream</li>\n<li>salt</li>\n<li>pepper</li>\n</ul>\n<h2>Instructions</h2>\n<ol>\n<li>In a small bowl, combine vodka and crushed red pepper. Set aside for at least 1 hour.</li>\n<li>Heat olive oil in a large skillet over medium heat. Sautée prosciutto until evenly browned.</li>\n<li>Add garlic, parsley, basil, salt, and pepper. Cook until garlic becomes fragrant, about 1-2 minutes.</li>\n<li>Deglaze the pan using the vodka mixture. Simmer for 10 minutes.</li>\n<li>Add tomatoes, tomato sauce, water and crush into a chunky sauce. Simmer for 15 minutes.</li>\n<li>Stir in the cream and cook for 2 minutes.</li>\n</ol>\n<h2>Serving</h2>\n<ul>\n<li>With a tube pasta like penne or any shape that will catch the chunks well.</li>\n<li>Use as a pizza sauce...<a href=\"https://www.pizzalobo.com/food\">not sure why I didn't think of that until recently</a>.</li>\n</ul>",
+      "date_published": "2023-04-24T00:00:00Z"
+    },
+    {
+      "id": "https://shallots.party/recipes/collard-greens/",
+      "url": "https://shallots.party/recipes/collard-greens/",
+      "title": "Collard Greens",
+      "content_html": "<h2>Ingredients</h2>\n<ul>\n<li>2 bushels collard greens</li>\n<li>1/2 a yellow or white onion</li>\n<li>2 jalapenos</li>\n<li>3-4 slices bacon (depending on thickness)</li>\n<li>4 cloves garlic</li>\n<li>salt</li>\n<li>pepper</li>\n<li>smoked paprika</li>\n<li>crushed red pepper (optional)</li>\n<li>2 cups chicken stock</li>\n</ul>\n<h2>Equipment</h2>\n<ul>\n<li>Pasta pot (just any large pot will do)</li>\n<li>Cutting board</li>\n<li>Knife</li>\n</ul>\n<h2>Instructions</h2>\n<ol>\n<li>Remove this stems/stalks from the greens and cut the leaves into 2-3 inch chunks.</li>\n<li>Dice the following - bacon, onion, garlic, jalapeno.</li>\n<li>In the bottom of the pan, sear bacon.</li>\n<li>When bacon is about 1/2 cooked, stir in the garlic and onion.  Add salt, pepper and paprika to taste (i recommend a good amount of paprika).</li>\n<li>Once bacon is well browned, add jalepeno.</li>\n<li>Let that cook for 1-2 minutes.  Add a splash of stock to deglaze the pan.</li>\n<li>Add greens, pour chicken stock over. (this SHOULD NOT cover all the greens, they cook down)</li>\n<li>Stir and keep coating/dipping the greens into the stock.</li>\n<li>Once the greens start to cook down and get a little smaller, reduce heat to a simmer.</li>\n<li>Let cook for 45 minutes covered, stirring ocassionally</li>\n</ol>",
+      "date_published": "2022-10-31T00:00:00Z"
+    },
+    {
+      "id": "https://shallots.party/recipes/red-sauce/",
+      "url": "https://shallots.party/recipes/red-sauce/",
+      "title": "Red Sauce",
+      "content_html": "<h2>Ingredients</h2>\n<ul>\n<li>5 28 oz cans of whole, peeled San Marzano tomatoes</li>\n<li>1 white onion, diced fine</li>\n<li>4 tbsp olive oil</li>\n<li>Salt</li>\n</ul>\n<h2>Equipment</h2>\n<ul>\n<li>Food mill (sorry, I know no other way)</li>\n</ul>\n<h2>Instructions</h2>\n<ol>\n<li>Open the cans of tomatoes and drain excess liquid.</li>\n<li>In a large sauce pot, add the olive oil over medium-low heat.</li>\n<li>Once the oil is shimmering, add the onion and cook until soft. Turn the heat down to low.</li>\n<li>With the food mill on top of the sauce pot, mill the tomatoes, scraping the bottom ocassionally.</li>\n<li>Bring the sauce to a simmer for about 3-4 hours. Stir frequently, about avery 20 minutes.</li>\n</ol>",
+      "date_published": "2021-12-26T00:00:00Z"
+    },
+    {
+      "id": "https://shallots.party/recipes/oyakodon/",
+      "url": "https://shallots.party/recipes/oyakodon/",
+      "title": "Oyakodon",
+      "content_html": "<h2>Ingredients</h2>\n<ul>\n<li>1/2 C mirin (or white wine)</li>\n<li>14 oz boneless, skinless chicken thighs, cut into 1 inch chunks</li>\n<li>1/2 onion, sliced thin</li>\n<li>2 scallions, sliced thin</li>\n<li>6 large eggs, beaten</li>\n</ul>\n<h3>To make the Dashi substitute</h3>\n<ul>\n<li>6 oz stock</li>\n<li>2 oz Worcesterchire sauce</li>\n<li>2 oz fish sauce</li>\n<li>1 oz soy sauce</li>\n<li>1 oz rice vinegar</li>\n</ul>\n<h2>Instructions</h2>\n<ol>\n<li>Add the dashi subsitute and mirin to a large skillet and simmer over medium heat.</li>\n<li>Add the chicken and cook until it just loses its pink color, about 2-3 minutes.</li>\n<li>Add the onion and scallions and cook until the chicken is fully cooked.</li>\n<li>Turn heat down to medium-low. While slowly stirring, slowly pour the beaten eggs into the skillet. You will want to keep the mixture as smooth as possible.</li>\n</ol>\n<h2>Serving</h2>\n<ul>\n<li>Over rice</li>\n</ul>\n<h2>Sources</h2>\n<ul>\n<li>Original inspiration from <a href=\"https://www.justonecookbook.com/oyakodon/\">Just One Cookbook</a></li>\n<li>Preparation adapted based on <a href=\"https://www.goodreads.com/en/book/show/43230870-the-gaijin-cookbook\">The Gaijin Cookbook (pg. 42)</a></li>\n</ul>",
+      "date_published": "2021-12-25T00:00:00Z"
+    }
+  ]
+}
