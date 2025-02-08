@@ -15,8 +15,8 @@ draft: false
 - 1 c vodka
 - 1 tsp crushed red pepper
 - 2 tsp olive oil
-- 3/4 lb prosciutto, chopped
-- 1 large clove garlic, minced
+- 1/2 lb prosciutto, chopped
+- 2-4 large cloves garlic, minced
 - 2 tbsp parsley, chopped
 - 2 tbsp basil, chopped
 - 1 28oz can Roma tomatoes, with juice
