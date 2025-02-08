@@ -35,5 +35,5 @@ draft: false
 6. Stir in the cream and cook for 2 minutes.
 
 ## Serving
-- With a tube pasta like penne or any shape that will catch the chunks well.
+- With penne (and not rigatoni).
 - Use as a pizza sauce...[not sure why I didn't think of that until recently](https://www.pizzalobo.com/food).
